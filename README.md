@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **My brain is a multi-threaded system with no scheduler. I turn ADHD chaos into clean code through intense hyperfocus loops.**
 
-- 👨‍💻 All of my projects are available at **[https://faatikhriziq.dev](https://faatikhriziq.dev)**
+- 👨‍💻 All of my projects are available at **[https://faatikhriziq.my.id](https://faatikhriziq.my.id)**
 
-- 📝 I regularly write articles on **[https://faatikhriziq.dev/blog](https://faatikhriziq.dev/blog)**
+- 📝 I regularly write articles on **[https://faatikhriziq.my.id/blog](https://faatikhriziq.my.id/blog)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
