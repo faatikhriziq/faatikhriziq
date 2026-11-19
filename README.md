@@ -1,7 +1,7 @@
 # Hi 👋, I'm Faatikh Riziq
-### **Fullstack Developer | Linux Enthusiast | ADHD Warrior**
+### **Software Engineer | Linux Enthusiast | ADHD Warrior**
 
-####  A full-stack developer dedicated to mastering the fundamentals of backend systems and user interfaces. I am passionate about the process of learning complex systems and continuously refining my workflow to build more reliable software.
+####  A software engineer dedicated to mastering the fundamentals of backend systems and user interfaces. I am passionate about the process of learning complex systems and continuously refining my workflow to build more reliable software.
 
 
 - 🔭 I'm currently working on **a Rust Project**
